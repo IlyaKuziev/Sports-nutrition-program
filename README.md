@@ -1,7 +1,6 @@
 # Sports-nutrition-program
 NEWS
-09 april
-10 april
+11 april
 send day = 1 day
 
 
