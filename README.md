@@ -8,7 +8,7 @@ send day = 1 day
 06 april 
 21 april
 25 april
-
+26 april
 IGHT_PIN = 18 
 
 __def turn_light_on(): 
