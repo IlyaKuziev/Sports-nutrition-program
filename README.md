@@ -10,7 +10,6 @@ send day = 1 day
 25 april
 26 april
 IGHT_PIN = 18 
-
 __def turn_light_on(): 
 , GPIO.lights) print("Light turned ON")
 
