@@ -11,7 +11,6 @@ eh
 dostoyev
 skyyy
 gucci 
-
 06 april 
 21 april
 25 april
