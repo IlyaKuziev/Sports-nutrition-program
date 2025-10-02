@@ -1,7 +1,7 @@
 # Sports-nutrition-program
 NEWS
 20 april
-send day = 1 day
+send day = 1 day 
 ----- 25 marchhhh 
 26 march
 27 march 
