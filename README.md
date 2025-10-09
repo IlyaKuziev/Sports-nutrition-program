@@ -7,7 +7,7 @@ send day = 1 day
 27 march 
 wqw
 eh
-dostoyev 
+dostoyev
 skyy
 gucci 
 06 april 
