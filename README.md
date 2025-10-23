@@ -8,7 +8,7 @@ send day = 1 day
 wqw
 eh
 dostoyev
-skyy
+skyy 
 gucci 
 06 april 
 21 april
