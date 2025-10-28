@@ -9,7 +9,6 @@ wqw
 eh 
 dostoyev
 skyy
-
 gucci 
 06 april
 21 april
